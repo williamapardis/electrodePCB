@@ -1,4 +1,4 @@
-25237700703025671
+25241261025133415
 686104183822
 686104183822
 
@@ -13,6 +13,13 @@ Untitled
 0
 0
 0
+5034802000 FPC Molex
+CON_5034802000_MOL
+
+
+0
+22
+22
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -91530,6 +91537,13 @@ Power Metal Strip Resistors 0.005 to 0.2, https://www.vishay.com/docs/30101/wsr.
 SMD Shunt Resistor
 0
 4
+2
+Resistor_SMD
+adjustable
+
+
+0
+2
 2
 Resistor_THT
 R_Array_SIP4
