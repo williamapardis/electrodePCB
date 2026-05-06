@@ -1,0 +1,23 @@
+Warning: Width correction constrained.  The width correction value must be in the range of [0.000001 mm; 0.199999 mm] for the current design rules.
+Plotted to '/Users/williampardis/Documents/theConductor/theConductor-F_Cu.gbr'.
+Plotted to '/Users/williampardis/Documents/theConductor/theConductor-B_Cu.gbr'.
+Plotted to '/Users/williampardis/Documents/theConductor/theConductor-F_Paste.gbr'.
+Plotted to '/Users/williampardis/Documents/theConductor/theConductor-B_Paste.gbr'.
+Plotted to '/Users/williampardis/Documents/theConductor/theConductor-F_Silkscreen.gbr'.
+Plotted to '/Users/williampardis/Documents/theConductor/theConductor-B_Silkscreen.gbr'.
+Plotted to '/Users/williampardis/Documents/theConductor/theConductor-F_Mask.gbr'.
+Plotted to '/Users/williampardis/Documents/theConductor/theConductor-B_Mask.gbr'.
+Plotted to '/Users/williampardis/Documents/theConductor/theConductor-Edge_Cuts.gbr'.
+Created Gerber job file '/Users/williampardis/Documents/theConductor/theConductor-job.gbrjob'.
+Plotted to '/Users/williampardis/Documents/theConductor/theConductor-F_Cu.gbr'.
+Plotted to '/Users/williampardis/Documents/theConductor/theConductor-B_Cu.gbr'.
+Plotted to '/Users/williampardis/Documents/theConductor/theConductor-F_Paste.gbr'.
+Plotted to '/Users/williampardis/Documents/theConductor/theConductor-B_Paste.gbr'.
+Plotted to '/Users/williampardis/Documents/theConductor/theConductor-F_Silkscreen.gbr'.
+Plotted to '/Users/williampardis/Documents/theConductor/theConductor-B_Silkscreen.gbr'.
+Plotted to '/Users/williampardis/Documents/theConductor/theConductor-F_Mask.gbr'.
+Plotted to '/Users/williampardis/Documents/theConductor/theConductor-B_Mask.gbr'.
+Plotted to '/Users/williampardis/Documents/theConductor/theConductor-Edge_Cuts.gbr'.
+Created Gerber job file '/Users/williampardis/Documents/theConductor/theConductor-job.gbrjob'.
+Info: Done.
+Info: Done.
