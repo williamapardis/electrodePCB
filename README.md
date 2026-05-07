@@ -1,6 +1,9 @@
 # electrodePCB
 Solution-circuit interface.
 
+<img src="https://github.com/user-attachments/assets/74132078-2e58-4687-ab64-3e68840bd8dc" width="65%" />
+
+
 ## rD
 <p align="center">
   <img src="https://github.com/user-attachments/assets/0e433c83-1b78-477b-94a8-b3ef5f87ad4b" width="45%" />
