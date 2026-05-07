@@ -1,8 +1,9 @@
 # electrodePCB
-Solution-circuit interface.
+A convenient solution-circuit interface. The electrode printed circuit board (PCB) is a experimental utility with submersible application of electrochemistry in mind. The PCB is designed to fasten directly to a Blue Robotic (BR) Enclosure - 2" Cylindrical Locking Series - O-ring flanges. The front side (or wet side) of the PCB is a layout of gold plated pads that act as substrate for unique solution processed electrode materials. The back side (or dry side) internal to the BR enclosure hosts both passive and active circuitry, their respective layout and interconnection to circuit and electrodes thought a multi. pos. FPC cable. 
 
-<img src="https://github.com/user-attachments/assets/74132078-2e58-4687-ab64-3e68840bd8dc" width="65%" />
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/74132078-2e58-4687-ab64-3e68840bd8dc" width="65%" />
+</p>
 
 ## rD
 <p align="center">
