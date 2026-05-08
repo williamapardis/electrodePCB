@@ -1,4 +1,25 @@
-25208957173012601
+25241261025133415
+686104183822
+686104183822
+
+
+0
+8
+8
+686104183822
+Untitled
+
+
+0
+0
+0
+5034802000 FPC Molex
+CON_5034802000_MOL
+
+
+0
+22
+22
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -57994,6 +58015,27 @@ One digit LED 7 segment SA39-11 SC39-11 SA39-12 SC39-12
 0
 10
 10
+Electrodes
+Circular_10mm
+
+
+0
+1
+1
+Electrodes
+Conductivity_Cell_K10
+
+
+0
+4
+4
+Electrodes
+thermal_pad
+
+
+0
+1
+1
 Ferrite_THT
 LairdTech_28C0236-0JW-10
 Ferrite, vertical, LairdTech 28C0236-0JW-10, https://assets.lairdtech.com/home/brandworld/files/28C0236-0JW-10.pdf, JW Miller core https://www.bourns.com/products/magnetic-products/j.w.-miller-through-hole-ferrite-beads-emi-filters
@@ -66681,6 +66723,13 @@ Yellow 5381 Series LED
 0
 2
 2
+MOLEX FPC
+CON_5034801600_MOL
+
+5034801600 
+0
+18
+18
 Module
 A20_OLINUXINO_LIME2
 A20 Olinuxino LIME2, 1.2GHz, 512-1024MB RAM, Micro-SD, NAND or eMMC, 1000Mbit Ethernet
@@ -91489,6 +91538,13 @@ SMD Shunt Resistor
 0
 4
 2
+Resistor_SMD
+adjustable
+
+
+0
+2
+2
 Resistor_THT
 R_Array_SIP4
 4-pin Resistor SIP pack
@@ -94471,6 +94527,27 @@ Logo WEEE
 0
 0
 0
+TMP119
+DSBGA6_YBG_TEX
+
+TMP119AIYBGR 
+0
+6
+6
+TMP119
+DSBGA6_YBG_TEX-L
+
+TMP119AIYBGR 
+0
+6
+6
+TMP119
+DSBGA6_YBG_TEX-M
+
+TMP119AIYBGR 
+0
+6
+6
 TerminalBlock
 TerminalBlock_Altech_AK300-2_P5.00mm
 Altech AK300 terminal block, pitch 5.0mm, 45 degree angled, see http://www.mouser.com/ds/2/16/PCBMETRC-24178.pdf
