@@ -488,7 +488,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "../../../../Applications/KiCad/",
-      "plot": "output_rD_140426/",
+      "plot": "output/",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "electrodePCB.step",
