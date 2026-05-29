@@ -5,6 +5,12 @@ A convenient solution-circuit interface. The electrode printed circuit board (PC
   <img src="https://github.com/user-attachments/assets/74132078-2e58-4687-ab64-3e68840bd8dc" width="65%" />
 </p>
 
+## rE
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/29597e04-d8a0-4449-a53d-a303934896d8" width="45%" />
+  <img src="https://github.com/user-attachments/assets/88d3f029-a270-4b83-8c6a-4c41a5ef985f" width="45%" />
+</p>
+
 ## rD
 <p align="center">
   <img src="https://github.com/user-attachments/assets/0e433c83-1b78-477b-94a8-b3ef5f87ad4b" width="45%" />
