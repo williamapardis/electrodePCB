@@ -3,7 +3,7 @@ A convenient solution-circuit interface. The electrode printed circuit board (PC
 
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/04916a75-cbe9-425a-b193-dbe9c1b86f04" width="35%" />
+  <img src="https://github.com/user-attachments/assets/04916a75-cbe9-425a-b193-dbe9c1b86f04" width="30%" />
   <img src="https://github.com/user-attachments/assets/74132078-2e58-4687-ab64-3e68840bd8dc" width="45%" />
 </p>
 
