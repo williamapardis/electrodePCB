@@ -12,6 +12,7 @@ A convenient solution-circuit interface. The electrode printed circuit board (PC
   <img src="https://github.com/user-attachments/assets/29597e04-d8a0-4449-a53d-a303934896d8" width="45%" />
   <img src="https://github.com/user-attachments/assets/88d3f029-a270-4b83-8c6a-4c41a5ef985f" width="45%" />
 </p>
+We have upgraded to a 20 position FPC connector to accomidate more features. One these features include an additional heating element for thermal probing of the electrodes. Probing of the.
 
 ## rD
 <p align="center">
