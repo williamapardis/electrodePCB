@@ -38,4 +38,5 @@ We have upgraded to a 20 position FPC connector to accomidate more features. One
   <img src="https://github.com/user-attachments/assets/6a301695-9f27-43d6-bd3a-e064d0e9aad0" width="45%" />
 </p>
 
-
+### next revision
+add a convenient way to disconnect electrodes from FPC
